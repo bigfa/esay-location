@@ -1,9 +1,9 @@
-=== Disable Emojis (GDPR friendly) ===
+=== Easy Location ===
 Contributors: bigfa
 Tags: location
 Requires at least: 4.8
 Tested up to: 5.9.9
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 
 
 This plugin disables the new WordPress emoji functionality. GDPR friendly.
@@ -11,7 +11,7 @@ This plugin disables the new WordPress emoji functionality. GDPR friendly.
 
 == Description ==
 
-展示评论人归属地
+展示评论、文章归属地
 
 == Installation ==
 
@@ -22,6 +22,9 @@ After you've downloaded and extracted the files:
 3. And yer done!
 
 == Changelog ==
+
+= 1.0.1 =
+Add post author location.
 
 = 1.0 =
 Initial release.
