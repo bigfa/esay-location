@@ -3,7 +3,7 @@ Contributors: bigfa
 Tags: location
 Requires at least: 4.8
 Tested up to: 5.9.9
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 
 
 This plugin disables the new WordPress emoji functionality. GDPR friendly.
@@ -22,6 +22,10 @@ After you've downloaded and extracted the files:
 3. And yer done!
 
 == Changelog ==
+
+= 1.0.2 =
+
+Fixed comment_ID empty error.
 
 = 1.0.1 =
 Add post author location.

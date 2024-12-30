@@ -1,4 +1,6 @@
-# esay-location
+# easy-location
+
+![](https://static.fatesinger.com/2022/04/pisdeg7xd04g502y.jpg)
 
 展示评论和文章地理位置
 

@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Easy Location
-Plugin URI: https://fatesinger.com
+Plugin URI: https://fatesinger.com/100958
 Description: Easy Location
-Version: 1.0.1
+Version: 1.0.2
 Author: Bigfa
-Author URI: https://fatesinger.com
+Author URI: https://github.com/bigfa
 License: GPL2
 */
 define('SHOW_POST_LOCATION', false);
