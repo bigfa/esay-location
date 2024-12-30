@@ -268,7 +268,7 @@ if (!function_exists('easy_location_handle_comment')) :
 	{
 		$comment_ID = get_comment_ID();
 		$comment = get_comment($comment_ID);
-		if ($comment->comment_author_IP && get_user_city($comment->comment_author_IP)) {
+		if ($comment_ID && $comment->comment_author_IP && get_user_city($comment->comment_author_IP)) {
 			$comment_text .= '<div class="comment--location"><svg version="1.1" viewBox="0 0 368.666 368.666"  width="14" height="14"><g><path d="M184.333,0C102.01,0,35.036,66.974,35.036,149.297c0,33.969,11.132,65.96,32.193,92.515
 		c27.27,34.383,106.572,116.021,109.934,119.479l7.169,7.375l7.17-7.374c3.364-3.46,82.69-85.116,109.964-119.51
 		c21.042-26.534,32.164-58.514,32.164-92.485C333.63,66.974,266.656,0,184.333,0z M285.795,229.355
